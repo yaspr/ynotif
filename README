@@ -1,0 +1,6 @@
+# 1 - Notifications
+  - info		--> stdout
+  - warnings and errors --> stderr
+
+  - It's normal for the Make runtest to finish with and Error 1.
+    The final test is for ynotif_error and is set to exit with code 1.
